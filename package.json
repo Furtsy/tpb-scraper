@@ -1,0 +1,35 @@
+{
+  "name": "tpb-scraper",
+  "version": "1.0.2",
+  "description": "thepiratebay10 (TPB) easy scraper",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furtsy/tpb-scrapper.git"
+  },
+  "keywords": [
+    "thepiratebay",
+    "thepiratebay10",
+    "tpb",
+    "torrent",
+    "torrent-search",
+    "torrent-scraper",
+    "tpb-scraper",
+    "torrent",
+    "torrents",
+    "torrent-search-api"
+  ],
+  "author": "Furtsy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Furtsy/tpb-scrapper/issues"
+  },
+  "homepage": "https://github.com/Furtsy/tpb-scrapper#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
